@@ -1,0 +1,7 @@
+IT Policy
+
+Password resets are handled by the IT department.
+
+Multi-factor authentication is required.
+
+Shared accounts are prohibited.
